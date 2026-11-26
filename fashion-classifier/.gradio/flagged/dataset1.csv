@@ -1,0 +1,2 @@
+Upload Clothing Image,Invert colors (check if clothing is dark on a white background),Top-3 Predictions,timestamp
+.gradio\flagged\Upload Clothing Image\1d3bfa8e65034bb1930a\Lee-Men-s-Wyoming-Cargo-Pant_c0dfa107-0de4-4762-b91d-d83361378837.45b52101fe499952b17dfde7d11cbfc3.avif,false,"{""label"": ""Bag"", ""confidences"": [{""label"": ""Bag"", ""confidence"": 0.765881359577179}, {""label"": ""Shirt"", ""confidence"": 0.10720128566026688}, {""label"": ""Ankle boot"", ""confidence"": 0.060150470584630966}]}",2026-11-26 02:04:30.941948
